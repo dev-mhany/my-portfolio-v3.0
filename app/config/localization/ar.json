@@ -1,0 +1,356 @@
+{
+	"id": "ar",
+	"navbarMenu": {
+	  "labelHome": "الرئيسية",
+	  "labelServices": "الخدمات",
+	  "labelAboutMe": "نبذة عني",
+	  "labelPortfolio": "المشاريع",
+	  "labelExperience": "الخبرات"
+	},
+	"landingPage": {
+	  "presentationText": "مرحبًا، أنا",
+	  "firstTypeText": "غلایسون فيسغييرا",
+	  "resumeText": "مطور Full Stack بخبرة في إنشاء حلول شاملة، يركز دائمًا على تقديم تجارب واجهة أمامية مبتكرة وبديهية تربط المستخدم بالمنتج.",
+	  "buttonText": "اعرف المزيد"
+	},
+	"servicesOffer": {
+	  "title": "الخدمات المقدمة",
+	  "subtitle": "حلول البرمجيات لدينا مخصصة بالكامل، مما يضمن أن يحصل عملك على ما يحتاجه بالضبط للتميز في السوق.",
+	  "cards": {
+		"development": {
+		  "title": "تطوير الأنظمة",
+		  "contentText": "إنشاء حلول مخصصة تلبي الاحتياجات الخاصة لعملك، باستخدام تقنيات حديثة وفعالة، مما يضمن أداءً عاليًا وقابلية للتوسع."
+		},
+		"seo": {
+		  "title": "تحسين محركات البحث (SEO)",
+		  "contentText": "تحسين موقعك لمحركات البحث، زيادة الرؤية وحركة المرور العضوية، وضمان أن يجد جمهورك المستهدف عملك بسهولة أكبر."
+		},
+		"ux": {
+		  "title": "تصميم واجهة المستخدم وتجربة المستخدم (UI/UX)",
+		  "contentText": "التركيز على تحسين سهولة الاستخدام وتجربة المستخدم، وتصميم واجهات لا تبهر فقط بل تزيد أيضًا من التفاعل ورضا العملاء."
+		},
+		"branding": {
+		  "title": "العلامة التجارية",
+		  "contentText": "أساعدك في وضع علامتك التجارية بشكل صحيح، وتعزيز النتائج الإيجابية من خلال أفضل الممارسات في التسويق الرقمي."
+		},
+		"consultancy": {
+		  "title": "استشارات تكنولوجيا المعلومات",
+		  "contentText": "تحليل استراتيجي ومخصص لاعتماد التقنيات الأنسب، تحسين العمليات وتسريع النتائج في عملك."
+		},
+		"mobile_development": {
+		  "title": "تطبيقات الهواتف المحمولة",
+		  "contentText": "إنشاء تطبيقات أصلية وهجينة لنظامي Android وiOS."
+		},
+		"chatbot": {
+		  "title": "تطوير الدردشة الآلية (Chatbot)",
+		  "contentText": "تنفيذ دردشات آلية ذكية لتحسين خدمة العملاء وأتمتة التفاعلات."
+		},
+		"support": {
+		  "title": "الدعم والصيانة",
+		  "contentText": "نقدم دعمًا تقنيًا مستمرًا وصيانة استباقية، مما يضمن بقاء أنظمتك مستقرة وآمنة ومحدثة."
+		}
+	  }
+	},
+	"aboutMePage": {
+	  "title": "نبذة عني",
+	  "paragraph_one": "أنا مطور واجهة أمامية متحمس دائمًا للبحث عن تعلم تقنيات جديدة. لدي خبرة قوية في React وReact Native وNext.js، وأنا متاح دائمًا لمواجهة تحديات جديدة وتحسين مهاراتي. لدي شغف بإنشاء واجهات مستخدم مذهلة ومتجاوبة، وأستمتع بالعمل على مشكلات معقدة. علاوة على ذلك، أستطيع العمل بفعالية ضمن فريق والتواصل بوضوح مع أعضاء الفريق الآخرين. أنا دائمًا مستعد للتعلم والتكيف مع المواقف الجديدة، مما يجعلني مطورًا مرنًا وموثوقًا لأي مشروع.",
+	  "paragraph_two": "لدي قدرة عالية في مجال الواجهة الأمامية، مع معرفة قوية في المكدس التقني: React.js وNext.js وHTML وCSS وStyled Components.",
+	  "paragraph_three": "حاصل على بكالوريوس في نظم المعلومات من مركز جامعة موريشيو دي نازاون، مع إتمام الدراسة في النصف الأول من عام 2021. عملت لمدة 9 سنوات في شركة Claudino S/A، منها 8 سنوات في المجال الإداري وسنة واحدة في قطاع تكنولوجيا المعلومات بالشركة، تحديدًا في الفريق المسؤول عن التجارة الإلكترونية للشركة، حيث كنت أقوم يوميًا بصيانة أو تطوير وظائف جديدة باستخدام تقنيات مثل Python وDjango وDjango REST Framework وReact.js وNext.js وPostgreSQL.",
+	  "github_card": {
+		"bio": "مطور Full Stack ذو خبرة واسعة في مكدس JavaScript، بما في ذلك Node.js وReact وReact Native وNext.js.",
+		"followers": "متابعون",
+		"following": "تابعين",
+		"repos": "المستودعات"
+	  },
+	  "alt_dev_img": "غلایسون فيسغييرا مطور",
+	  "stats": {
+		"stat_1": "أكثر من 5 سنوات من الخبرة في سوق التكنولوجيا",
+		"stat_2": "أكثر من 15 مشروعًا ناجحًا تم تسليمه",
+		"stat_3": "90% من عملائنا يعودون لمشاريع جديدة",
+		"stat_4": "أكثر من 10 عملاء راضين في قطاعات متنوعة"
+	  }
+	},
+	"portfolioPage": {
+	  "title": "المشاريع",
+	  "subtitle": "استكشف بعض المشاريع التي عملت عليها لترى جودة وتنوع عملي.",
+	  "labelFilter": "الكل",
+	  "createdLabel": "تاريخ الإنشاء",
+	  "sourceCodeLabel": "الكود المصدري",
+	  "demoLabel": "العرض التجريبي",
+	  "projects": {
+		"id_1": {
+		  "title": "نظام الري التلقائي",
+		  "description": "تنفيذ خوارزمية منطق ضبابي مدفوعة بالذكاء الاصطناعي باستخدام مكتبة jFuzzyLogic لأتمتة الري بناءً على درجة الحرارة والإضاءة والرطوبة.",
+		  "sourceCodeUrl": "https://github.com/Glayson/automatic-irrigation-system",
+		  "demoUrl": "https://automatic-irrigation-system.demo.com",
+		  "technologiesUsed": ["Python", "jFuzzyLogic", "React.js"]
+		},
+		"id_2": {
+		  "title": "DevRadar",
+		  "description": "تطبيق تم تطويره خلال أسبوع Omnistack #10 من Rocketseat. يهدف التطبيق إلى ربط المطورين في منطقتك الذين يعملون بنفس التقنيات.",
+		  "sourceCodeUrl": "https://github.com/Glayson/devradar",
+		  "demoUrl": "https://devradar.demo.com",
+		  "technologiesUsed": ["React.js", "React Native", "Node.js"]
+		},
+		"id_3": {
+		  "title": "كن البطل",
+		  "description": "تطبيق تم تطويره خلال أسبوع Omnistack #11 من Rocketseat. يربط التطبيق الأشخاص بالمنظمات غير الحكومية التي تحتاج إلى مساعدة.",
+		  "sourceCodeUrl": "https://github.com/Glayson/be-the-hero",
+		  "demoUrl": "https://be-the-hero.demo.com",
+		  "technologiesUsed": ["React.js", "React Native", "Node.js"]
+		},
+		"id_4": {
+		  "title": "مغلف API Integra",
+		  "description": "خادم Node.js لاستخدام API Integra المقدمة من STRANS في Teresina - PI.",
+		  "sourceCodeUrl": "https://github.com/Glayson/integra-api-wrapper",
+		  "demoUrl": "https://integra-api-wrapper.demo.com",
+		  "technologiesUsed": ["Node.js", "Express", "PostgreSQL"]
+		},
+		"id_5": {
+		  "title": "LetMeAsk",
+		  "description": "تطبيق تم تطويره خلال أسبوع Next Level Week #06 من Rocketseat. يتيح التطبيق للمستخدمين تسجيل الدخول باستخدام حساب Google الخاص بهم وإنشاء غرف حول مواضيع تهم الآخرين لطرح الأسئلة.",
+		  "sourceCodeUrl": "https://github.com/Glayson/letmeask",
+		  "demoUrl": "https://letmeask.demo.com",
+		  "technologiesUsed": ["React.js", "Firebase"]
+		},
+		"id_6": {
+		  "title": "PlantManager",
+		  "description": "تطبيق تم تطويره خلال أسبوع Next Level Week #05 من Rocketseat. يوفر التطبيق جدولة للري للنباتات، ويقدم نصائح حول كل نوع من النباتات، ويخطر المستخدمين عند وقت الري.",
+		  "sourceCodeUrl": "https://github.com/Glayson/plantmanager",
+		  "demoUrl": "https://plantmanager.demo.com",
+		  "technologiesUsed": ["React Native", "Firebase"]
+		},
+		"id_7": {
+		  "title": "نظام استبيان NPS",
+		  "description": "تطبيق تم تطويره خلال أسبوع Next Level Week #04 من Rocketseat. يتيح التطبيق حساب معدل NPS (Net Promoter Score) للشركة من خلال استبيانات رضا يتم إرسالها إلى المستخدمين عبر البريد الإلكتروني.",
+		  "sourceCodeUrl": "https://github.com/Glayson/nps-survey-system",
+		  "demoUrl": "https://nps-survey-system.demo.com",
+		  "technologiesUsed": ["React.js", "Node.js", "MongoDB"]
+		},
+		"id_8": {
+		  "title": "FastTrack API",
+		  "description": "الجزء الخلفي لخادم Node.js يوفر واجهة برمجة تطبيقات REST لمشاركة بيانات تحديد المواقع عبر الهواتف الذكية إلى قاعدة بيانات سحابية مدارة بواسطة MongoDB.",
+		  "sourceCodeUrl": "https://github.com/Glayson/fasttrack-api",
+		  "demoUrl": "https://fasttrack-api.demo.com",
+		  "technologiesUsed": ["Node.js", "Express", "MongoDB"]
+		},
+		"id_9": {
+		  "title": "تطبيق Integre-SE",
+		  "description": "تطبيق يراقب أسطول الحافلات العامة في Teresina - PI، ويعرض الموقع الحالي لكل حافلة نشطة على الخريطة مع تحديثات كل 30 ثانية.",
+		  "sourceCodeUrl": "https://github.com/Glayson/integre-se-app",
+		  "demoUrl": "https://integre-se-app.demo.com",
+		  "technologiesUsed": ["React Native", "Google Maps SDK"]
+		},
+		"id_10": {
+		  "title": "زاحف موقع الرادار",
+		  "description": "دراسة باستخدام مكتبة BeautifulSoup مع لغة Python لجمع البيانات من المواقع الإلكترونية. تبحث هذه الخوارزمية في موقع مجلس مدينة Teresina - PI وتوفر رابط تحميل المواقع الحالية لكاميرات السرعة في المدينة.",
+		  "sourceCodeUrl": "https://github.com/Glayson/radar-position-crawler",
+		  "demoUrl": "https://radar-position-crawler.demo.com",
+		  "technologiesUsed": ["Python", "BeautifulSoup"]
+		},
+		"id_11": {
+		  "title": "صفحة المحفظة",
+		  "description": "صفحة محفظة شخصية تم بناؤها باستخدام React.js وNext.js وStyled Components واستضافتها على منصة Vercel.",
+		  "sourceCodeUrl": "https://github.com/Glayson/portfolio-page",
+		  "demoUrl": "https://glayson-portfolio.vercel.app",
+		  "technologiesUsed": ["React.js", "Next.js", "Styled Components"]
+		},
+		"id_12": {
+		  "title": "تجميع معلومات اللوجستيات",
+		  "description": "نظام لتجميع معلومات اللوجستيات الداخلية للشركة.",
+		  "sourceCodeUrl": "https://github.com/Glayson/logistics-information-aggregate",
+		  "demoUrl": "https://logistics-information-aggregate.demo.com",
+		  "technologiesUsed": ["Node.js", "Express", "PostgreSQL"]
+		},
+		"id_13": {
+		  "title": "API مجمع معلومات اللوجستيات",
+		  "description": "واجهة برمجة تطبيقات مكتوبة بلغة JavaScript/Node.js ومضيفة على خادم AWS EC2 لتوفير معلومات اللوجستيات الداخلية للشركة.",
+		  "sourceCodeUrl": "https://github.com/Glayson/logistics-information-aggregator-api",
+		  "demoUrl": "https://logistics-information-aggregator-api.demo.com",
+		  "technologiesUsed": ["Node.js", "Express", "AWS EC2"]
+		},
+		"id_14": {
+		  "title": "ByteBank",
+		  "description": "تطبيق تم تطويره خلال مسار Flutter من Alura. باستخدام Flutter لإنشاء تطبيق متعدد المنصات يسجل أرقام الحسابات وقيمها المعنية ليتم عرضها ديناميكيًا داخل التطبيق.",
+		  "sourceCodeUrl": "https://github.com/Glayson/bytebank",
+		  "demoUrl": "https://bytebank.demo.com",
+		  "technologiesUsed": ["Flutter", "Dart"]
+		},
+		"id_15": {
+		  "title": "حاسبة ويب",
+		  "description": "تطبيق ويب لحاسبة، مكتوب بلغة TypeScript واستخدام إطار عمل/مترجم Svelte.",
+		  "sourceCodeUrl": "https://github.com/Glayson/web-calculator",
+		  "demoUrl": "https://web-calculator.demo.com",
+		  "technologiesUsed": ["TypeScript", "Svelte"]
+		},
+		"id_16": {
+		  "title": "تصميم واجهة المواد (Material Design)",
+		  "description": "هيكل أولي لتطبيق يستخدم إطار العمل الواجهة الأمامية Material UI.",
+		  "sourceCodeUrl": "https://github.com/Glayson/layout-material-design",
+		  "demoUrl": "https://layout-material-design.demo.com",
+		  "technologiesUsed": ["React.js", "Material UI"]
+		},
+		"id_17": {
+		  "title": "خرائط RN",
+		  "description": "تطبيق اختبار صغير يستخدم إطار عمل React Native لبناء عرض خرائط باستخدام Google Maps SDK.",
+		  "sourceCodeUrl": "https://github.com/Glayson/rn-maps",
+		  "demoUrl": "https://rn-maps.demo.com",
+		  "technologiesUsed": ["React Native", "Google Maps SDK"]
+		},
+		"id_18": {
+		  "title": "واجهة تجارة إلكترونية RN",
+		  "description": "واجهة تحاكي بعض المكونات والصفحات والديناميكيات في تطبيقات الهواتف المحمولة الأصلية للتجارة الإلكترونية.",
+		  "sourceCodeUrl": "https://github.com/Glayson/rn-ecommerce-ui",
+		  "demoUrl": "https://rn-ecommerce-ui.demo.com",
+		  "technologiesUsed": ["React Native", "Styled Components"]
+		},
+		"id_19": {
+		  "title": "قالب API Firebase",
+		  "description": "هيكل أولي يدمج CRUD في قاعدة بيانات Firestore باستخدام واجهة برمجة تطبيقات Firebase.",
+		  "sourceCodeUrl": "https://github.com/Glayson/firebase-api-boilerplate",
+		  "demoUrl": "https://firebase-api-boilerplate.demo.com",
+		  "technologiesUsed": ["Firebase", "React.js"]
+		},
+		"id_20": {
+		  "title": "لوحة Material V6",
+		  "description": "هيكل أولي لتطبيق يستخدم إطار العمل Material UI في الإصدار السادس.",
+		  "sourceCodeUrl": "https://github.com/Glayson/material-v6-dash",
+		  "demoUrl": "https://material-v6-dash.demo.com",
+		  "technologiesUsed": ["React.js", "Material UI v6"]
+		},
+		"id_21": {
+		  "title": "مدير الحالة العالمية",
+		  "description": "دراسة تنفيذية لمكتبات Zustand وJotai لإدارة الحالات العالمية لتطبيق الويب.",
+		  "sourceCodeUrl": "https://github.com/Glayson/global-state-manager",
+		  "demoUrl": "https://global-state-manager.demo.com",
+		  "technologiesUsed": ["React.js", "Zustand", "Jotai"]
+		},
+		"id_22": {
+		  "title": "Cédula Promotora",
+		  "description": "صفحة هبوط لشركة Cédula Promotora، وهي شركة قروض الرواتب.",
+		  "sourceCodeUrl": "https://github.com/Glayson/cedula-promotora",
+		  "demoUrl": "https://cedula-promotora.demo.com",
+		  "technologiesUsed": ["React.js", "Next.js", "Styled Components"]
+		}
+	  }
+	},
+	"experiencePage": {
+	  "title": "الخبرات",
+	  "subtitle": "ملخص لمسيرتي المهنية والأدوار التي قمت بها.",
+	  "timeline": {
+		"labelPosition": "المنصب",
+		"labelTitle": "العنوان",
+		"labelCompany": "الشركة",
+		"labelCategory": "الفئة",
+		"labelInstitution": "المؤسسة",
+		"labelProfessionalCourse": "دورة مهنية",
+		"labelBachelorDegree": "درجة البكالوريوس",
+		"labelExtensionCourse": "دورة تمديد"
+	  }
+	},
+	"testimonialPage": {
+	  "title": "ماذا يقول العملاء",
+	  "subtitle": "اكتشف ما يقوله عملائي عن تجاربهم مع خدماتي."
+	},
+	"faq": {
+	  "title": "الأسئلة المتكررة",
+	  "subtitle": "إليك بعض من أكثر الأسئلة المتكررة حول خدمات تطوير البرمجيات الخاصة بي.",
+	  "questions": [
+		{
+		  "id": 1,
+		  "question": "كم من الوقت يستغرق تطوير البرمجيات المخصصة؟",
+		  "answer": "يختلف وقت التطوير اعتمادًا على تعقيد ونطاق المشروع. قد تستغرق المشاريع البسيطة من 4 إلى 6 أسابيع، بينما يمكن أن تستغرق الحلول الأكثر تعقيدًا عدة أشهر. خلال استشارتنا الأولية، يمكنني تقديم تقدير أكثر دقة بناءً على احتياجاتك."
+		},
+		{
+		  "id": 2,
+		  "question": "ما هي عملية تطوير البرمجيات المخصصة؟",
+		  "answer": "تتبع العملية عمومًا الخطوات التالية: الاستشارة الأولية، تحديد المتطلبات، تصميم الواجهة، التطوير، الاختبار، والإطلاق. بعد الإطلاق، أقدم الدعم والصيانة لضمان سير الأمور بسلاسة."
+		},
+		{
+		  "id": 3,
+		  "question": "هل تقدم الدعم والصيانة بعد تسليم المشروع؟",
+		  "answer": "نعم، أقدم الدعم والصيانة لضمان استمرار عمل البرمجيات بشكل صحيح. يمكننا مناقشة حزم الصيانة المستمرة أو الدعم حسب الطلب."
+		},
+		{
+		  "id": 4,
+		  "question": "هل يمكنني متابعة تقدم مشروعي؟",
+		  "answer": "نعم، أحافظ على التواصل المنتظم مع العملاء طوال المشروع. أستخدم أدوات إدارة المشاريع للتحديثات المتكررة وأعقد اجتماعات لمناقشة التقدم وأي تعديلات ضرورية."
+		},
+		{
+		  "id": 5,
+		  "question": "ما هي التكاليف المتضمنة في تطوير البرمجيات المخصصة؟",
+		  "answer": "تعتمد التكلفة على تعقيد المشروع، الميزات المطلوبة، والوقت اللازم للتطوير. بعد مناقشة متطلباتك، سأقدم تقديرًا تفصيليًا للتكلفة."
+		},
+		{
+		  "id": 6,
+		  "question": "هل تعمل مع تصميم واجهة المستخدم (UI) وتجربة المستخدم (UX)؟",
+		  "answer": "نعم، أعتقد أن واجهة جيدة وتجربة مستخدم بديهية أمران حاسمان لنجاح البرمجيات. أركز على تصميم UI/UX مع التركيز على سهولة الاستخدام ورضا المستخدم."
+		},
+		{
+		  "id": 7,
+		  "question": "هل تقدم خدمات استشارية قبل بدء التطوير؟",
+		  "answer": "نعم، أقدم استشارات لفهم احتياجاتك بشكل أفضل والمساعدة في تحديد متطلبات المشروع. هذه المرحلة ضرورية لضمان تغطية جميع التفاصيل الهامة."
+		},
+		{
+		  "id": 8,
+		  "question": "هل يمكنك دمج البرمجيات مع منصات أو أنظمة أخرى؟",
+		  "answer": "نعم، أطور حلولًا يمكن دمجها مع منصات أو أنظمة أخرى، مثل قواعد البيانات، الخدمات الطرف الثالث، واجهات برمجة التطبيقات (APIs)، والمزيد. يتم التخطيط للدمج وفقًا للاحتياجات المحددة للمشروع."
+		},
+		{
+		  "id": 9,
+		  "question": "هل ستكون البرمجيات متجاوبة ومحسّنة للأجهزة المحمولة؟",
+		  "answer": "نعم، جميع البرمجيات التي أطورها مُحسّنة لتعمل بشكل جيد على مختلف الأجهزة، بما في ذلك أجهزة الكمبيوتر المكتبية والأجهزة اللوحية والهواتف الذكية، مما يضمن تجربة متسقة لجميع المستخدمين."
+		},
+		{
+		  "id": 10,
+		  "question": "ما أنواع المشاريع التي قمت بتطويرها؟",
+		  "answer": "لدي خبرة في مجموعة واسعة من المشاريع، مثل تطبيقات التجارة الإلكترونية، أنظمة إدارة المحتوى، منصات حجز الخدمات، لوحات تحليل البيانات، وغيرها. يمكنك الاطلاع على أمثلة من الأعمال السابقة في محفظتي."
+		},
+		{
+		  "id": 11,
+		  "question": "هل يمكنني طلب تغييرات في المشروع أثناء التطوير؟",
+		  "answer": "نعم، ولكن اعتمادًا على مرحلة المشروع، قد تؤثر التغييرات على الجدول الزمني والميزانية. ومع ذلك، أنا دائمًا مرن وأعمل مع العملاء لاستيعاب احتياجاتهم بأفضل شكل ممكن."
+		},
+		{
+		  "id": 12,
+		  "question": "هل تتولى إطلاق واستضافة البرمجيات؟",
+		  "answer": "نعم، يمكنني المساعدة في إطلاق البرمجيات وتقديم المشورة حول أفضل خيارات الاستضافة بناءً على حجم المشروع وحركة المرور المتوقعة."
+		},
+		{
+		  "id": 13,
+		  "question": "هل تقدم خدمات تحسين الأداء؟",
+		  "answer": "نعم، الأداء عامل حاسم لأي برمجيات. أحسن الكود والهياكل لضمان أن البرمجيات سريعة وفعّالة حتى تحت الحمل."
+		},
+		{
+		  "id": 14,
+		  "question": "هل تعمل بمنهجيات أجايل في التطوير؟",
+		  "answer": "نعم، أستخدم منهجيات أجايل مثل Scrum أو Kanban لضمان تطوير تعاوني وفعّال. هذا يسمح بمراجعات منتظمة وتعديلات سريعة حسب الحاجة."
+		}
+	  ]
+	},
+	"footer": {
+	  "labelNavigation": {
+		"title": "التنقل",
+		"labelHome": "الرئيسية",
+		"labelServices": "الخدمات",
+		"labelAboutMe": "نبذة عني",
+		"labelPortfolio": "المشاريع",
+		"labelExperience": "الخبرات"
+	  },
+	  "labelHost": {
+		"title": "استضافة الموقع"
+	  },
+	  "labelSourceCode": {
+		"title": "الكود المصدري"
+	  },
+	  "labelTechs": {
+		"title": "التقنيات"
+	  },
+	  "labelStats": {
+		"title": "الإحصائيات",
+		"stats": "لوحة التحكم"
+	  },
+	  "labelBuildVersion": "الإصدار 1.0.0"
+	}
+  }
+  

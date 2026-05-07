@@ -1,7 +1,15 @@
 {
   "compilerOptions": {
+    "baseUrl": "./app",
     "paths": {
-      "@/*": ["./*"]
-    }
-  }
+      "@/components/*": ["components/*"],
+      "@/styles/*": ["styles/*"],
+      "@/helpers/*": ["../helpers/*"],
+      "@/context/*": ["context/*"],
+      "@/public/*": ["../public/*"],
+      "@/config/*": ["config/*"]
+    },
+    "typeRoots": ["node_modules/@types"]
+  },
+  "exclude": ["node_modules"]
 }

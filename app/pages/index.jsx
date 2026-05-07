@@ -1,12 +1,12 @@
 import React from 'react'
 
 //Pages
-import SobreMimPage from './pages/sobre-mim'
-import PortfolioPage from './pages/portfolio'
-import experiencePage from './pages/experience'
-import HomePage from './pages/homepage'
-import Faq from './pages/faq'
-import Testimonials from './pages/Testimonials'
+import SobreMimPage from './sobre-mim'
+import PortfolioPage from './portfolio'
+import experiencePage from './experience'
+import HomePage from './homepage'
+import Faq from './faq'
+import Testimonials from './Testimonials'
 
 //Components
 import ServicesOffer from 'app/components/ServicesOffer'

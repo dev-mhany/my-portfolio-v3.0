@@ -1,0 +1,356 @@
+{
+	"id": "eng",
+	"navbarMenu": {
+	  "labelHome": "HOME",
+	  "labelServices": "SERVICES",
+	  "labelAboutMe": "ABOUT ME",
+	  "labelPortfolio": "PROJECTS",
+	  "labelExperience": "EXPERIENCE"
+	},
+	"landingPage": {
+	  "presentationText": "Hello, I'm",
+	  "firstTypeText": "Glayson Visgueira",
+	  "resumeText": "Full Stack developer with expertise in creating comprehensive solutions, consistently focused on delivering innovative and intuitive frontend experiences that connect users to the product.",
+	  "buttonText": "Learn more"
+	},
+	"servicesOffer": {
+	  "title": "Services Offered",
+	  "subtitle": "Our software solutions are fully customized, ensuring that your business gets exactly what it needs to stand out in the market.",
+	  "cards": {
+		"development": {
+		  "title": "System Development",
+		  "contentText": "Creation of customized solutions that meet the specific needs of your business, using modern and efficient technologies, ensuring high performance and scalability."
+		},
+		"seo": {
+		  "title": "SEO",
+		  "contentText": "Optimization of your website for search engines, increasing visibility and organic traffic, ensuring that your target audience finds your business more easily."
+		},
+		"ux": {
+		  "title": "UI/UX Design",
+		  "contentText": "Focus on improving usability and user experience, designing interfaces that not only impress but also maximize interaction and customer satisfaction."
+		},
+		"branding": {
+		  "title": "Branding",
+		  "contentText": "I help you position your brand correctly, boosting positive results through best practices in digital marketing."
+		},
+		"consultancy": {
+		  "title": "IT Consulting",
+		  "contentText": "Strategic and personalized analysis to adopt the most suitable technologies, optimizing processes and accelerating results in your business."
+		},
+		"mobile_development": {
+		  "title": "Mobile Applications",
+		  "contentText": "Creation of native and hybrid applications for Android and iOS."
+		},
+		"chatbot": {
+		  "title": "Chatbot Development",
+		  "contentText": "Implementation of intelligent chatbots to optimize customer service and automate interactions."
+		},
+		"support": {
+		  "title": "Support and Maintenance",
+		  "contentText": "We offer continuous technical support and proactive maintenance, ensuring that your systems remain stable, secure, and up to date."
+		}
+	  }
+	},
+	"aboutMePage": {
+	  "title": "About Me",
+	  "paragraph_one": "I'm a highly motivated front-end developer always looking to learn new technologies. I have solid experience in React, React Native, and Next.js, and I'm always available to face new challenges and improve my skills. I have a passion for creating amazing, responsive user interfaces, and I enjoy working on challenging problems. Furthermore, I am able to work effectively in a team and communicate clearly with other team members. I am always willing to learn and adapt to new situations, making me a flexible and reliable developer for any project.",
+	  "paragraph_two": "I have a strong aptitude for the front-end area, with solid knowledge in the stack: React.js, Next.js, HTML, CSS, and Styled Components.",
+	  "paragraph_three": "Bachelor in Information Systems from Centro Universitário Maurício de Nassau, with graduation completed in the first half of 2021. I worked for 9 years at Claudino S/A, with 8 years in the administrative area and 1 year in the company's IT sector, specifically in the team responsible for the company's eCommerce. There, I carried out daily maintenance and development of new functionalities using technologies such as Python, Django, Django REST Framework, React.js, Next.js, and PostgreSQL.",
+	  "github_card": {
+		"bio": "Full Stack developer with extensive experience in the JavaScript stack, including Node.js, React, React Native, and Next.js.",
+		"followers": "Followers",
+		"following": "Following",
+		"repos": "Repos"
+	  },
+	  "alt_dev_img": "Glayson Visgueira Developer",
+	  "stats": {
+		"stat_1": "5+ years of experience in the technology market",
+		"stat_2": "More than 15 successful projects delivered",
+		"stat_3": "90% of our clients return for new projects",
+		"stat_4": "Over 10 satisfied clients in various sectors"
+	  }
+	},
+	"portfolioPage": {
+	  "title": "Portfolio",
+	  "subtitle": "Explore some of the projects I've worked on to see the quality and diversity of my work.",
+	  "labelFilter": "ALL",
+	  "createdLabel": "Created at",
+	  "sourceCodeLabel": "Code",
+	  "demoLabel": "Demo",
+	  "projects": {
+		"id_1": {
+		  "title": "Automatic Irrigation System",
+		  "description": "Implemented an AI-driven fuzzy logic algorithm using the jFuzzyLogic library to automate irrigation based on temperature, luminosity, and humidity.",
+		  "sourceCodeUrl": "https://github.com/Glayson/automatic-irrigation-system",
+		  "demoUrl": "https://automatic-irrigation-system.demo.com",
+		  "technologiesUsed": ["Python", "jFuzzyLogic", "React.js"]
+		},
+		"id_2": {
+		  "title": "DevRadar",
+		  "description": "Application developed during Omnistack Week #10 by Rocketseat. The app connects developers in your vicinity who are working with the same technologies.",
+		  "sourceCodeUrl": "https://github.com/Glayson/devradar",
+		  "demoUrl": "https://devradar.demo.com",
+		  "technologiesUsed": ["React.js", "React Native", "Node.js"]
+		},
+		"id_3": {
+		  "title": "Be The Hero",
+		  "description": "Application developed during Rocketseat's Omnistack Week #11. The app connects people to NGOs that need assistance.",
+		  "sourceCodeUrl": "https://github.com/Glayson/be-the-hero",
+		  "demoUrl": "https://be-the-hero.demo.com",
+		  "technologiesUsed": ["React.js", "React Native", "Node.js"]
+		},
+		"id_4": {
+		  "title": "Integra API Wrapper",
+		  "description": "Node.js server for utilizing the Integra API provided by STRANS from Teresina - PI.",
+		  "sourceCodeUrl": "https://github.com/Glayson/integra-api-wrapper",
+		  "demoUrl": "https://integra-api-wrapper.demo.com",
+		  "technologiesUsed": ["Node.js", "Express", "PostgreSQL"]
+		},
+		"id_5": {
+		  "title": "LetMeAsk",
+		  "description": "Application developed during Rocketseat's Next Level Week #06. The app allows users to log in with their Google account and create rooms on topics of interest for others to ask questions.",
+		  "sourceCodeUrl": "https://github.com/Glayson/letmeask",
+		  "demoUrl": "https://letmeask.demo.com",
+		  "technologiesUsed": ["React.js", "Firebase"]
+		},
+		"id_6": {
+		  "title": "PlantManager",
+		  "description": "Application developed during Rocketseat's Next Level Week #05. The app provides an irrigation scheduler for plants, offers tips on each species, and notifies users when it's time to water their plants.",
+		  "sourceCodeUrl": "https://github.com/Glayson/plantmanager",
+		  "demoUrl": "https://plantmanager.demo.com",
+		  "technologiesUsed": ["React Native", "Firebase"]
+		},
+		"id_7": {
+		  "title": "NPS Survey System",
+		  "description": "Application developed during Rocketseat's Next Level Week #04. The app calculates the company's NPS (Net Promoter Score) through satisfaction surveys sent to users via email.",
+		  "sourceCodeUrl": "https://github.com/Glayson/nps-survey-system",
+		  "demoUrl": "https://nps-survey-system.demo.com",
+		  "technologiesUsed": ["React.js", "Node.js", "MongoDB"]
+		},
+		"id_8": {
+		  "title": "FastTrack API",
+		  "description": "Backend of a Node.js server providing a REST API that shares smartphone geolocation data to a cloud database maintained by MongoDB.",
+		  "sourceCodeUrl": "https://github.com/Glayson/fasttrack-api",
+		  "demoUrl": "https://fasttrack-api.demo.com",
+		  "technologiesUsed": ["Node.js", "Express", "MongoDB"]
+		},
+		"id_9": {
+		  "title": "Integre-SE App",
+		  "description": "Application that monitors the public bus fleet in Teresina - PI, displaying the current location of each active bus on a map with updates every 30 seconds.",
+		  "sourceCodeUrl": "https://github.com/Glayson/integre-se-app",
+		  "demoUrl": "https://integre-se-app.demo.com",
+		  "technologiesUsed": ["React Native", "Google Maps SDK"]
+		},
+		"id_10": {
+		  "title": "Radar Position Crawler",
+		  "description": "Study using the BeautifulSoup library with Python to collect data from websites. This algorithm searches the Teresina City Hall - PI website and provides the download link for the current positions of speed cameras in the city.",
+		  "sourceCodeUrl": "https://github.com/Glayson/radar-position-crawler",
+		  "demoUrl": "https://radar-position-crawler.demo.com",
+		  "technologiesUsed": ["Python", "BeautifulSoup"]
+		},
+		"id_11": {
+		  "title": "Portfolio Page",
+		  "description": "Personal portfolio page built using React.js, Next.js, Styled Components, and hosted on the Vercel platform.",
+		  "sourceCodeUrl": "https://github.com/Glayson/portfolio-page",
+		  "demoUrl": "https://glayson-portfolio.vercel.app",
+		  "technologiesUsed": ["React.js", "Next.js", "Styled Components"]
+		},
+		"id_12": {
+		  "title": "Logistics Information Aggregate",
+		  "description": "System to aggregate the company's internal logistics information.",
+		  "sourceCodeUrl": "https://github.com/Glayson/logistics-information-aggregate",
+		  "demoUrl": "https://logistics-information-aggregate.demo.com",
+		  "technologiesUsed": ["Node.js", "Express", "PostgreSQL"]
+		},
+		"id_13": {
+		  "title": "Logistics Information Aggregator API",
+		  "description": "API written in JavaScript/Node.js and hosted on an AWS EC2 server to provide the company's internal logistical information.",
+		  "sourceCodeUrl": "https://github.com/Glayson/logistics-information-aggregator-api",
+		  "demoUrl": "https://logistics-information-aggregator-api.demo.com",
+		  "technologiesUsed": ["Node.js", "Express", "AWS EC2"]
+		},
+		"id_14": {
+		  "title": "ByteBank",
+		  "description": "App developed during Alura's Flutter track. Using Flutter to create a cross-platform application that registers account numbers and their respective values, displaying them dynamically within the app.",
+		  "sourceCodeUrl": "https://github.com/Glayson/bytebank",
+		  "demoUrl": "https://bytebank.demo.com",
+		  "technologiesUsed": ["Flutter", "Dart"]
+		},
+		"id_15": {
+		  "title": "Web Calculator",
+		  "description": "Web application of a calculator, written in TypeScript and using the Svelte framework/compiler.",
+		  "sourceCodeUrl": "https://github.com/Glayson/web-calculator",
+		  "demoUrl": "https://web-calculator.demo.com",
+		  "technologiesUsed": ["TypeScript", "Svelte"]
+		},
+		"id_16": {
+		  "title": "Layout Material Design",
+		  "description": "Boilerplate structure for an application using the Material UI frontend framework.",
+		  "sourceCodeUrl": "https://github.com/Glayson/layout-material-design",
+		  "demoUrl": "https://layout-material-design.demo.com",
+		  "technologiesUsed": ["React.js", "Material UI"]
+		},
+		"id_17": {
+		  "title": "RN Maps",
+		  "description": "Small test application that uses the React Native framework to build a map view using the Google Maps SDK.",
+		  "sourceCodeUrl": "https://github.com/Glayson/rn-maps",
+		  "demoUrl": "https://rn-maps.demo.com",
+		  "technologiesUsed": ["React Native", "Google Maps SDK"]
+		},
+		"id_18": {
+		  "title": "RN E-Commerce UI",
+		  "description": "UI that mimics existing components, pages, and dynamics in native mobile apps for e-commerce.",
+		  "sourceCodeUrl": "https://github.com/Glayson/rn-ecommerce-ui",
+		  "demoUrl": "https://rn-ecommerce-ui.demo.com",
+		  "technologiesUsed": ["React Native", "Styled Components"]
+		},
+		"id_19": {
+		  "title": "Firebase API Boilerplate",
+		  "description": "Boilerplate structure that integrates a CRUD in the Firestore database using Firebase API.",
+		  "sourceCodeUrl": "https://github.com/Glayson/firebase-api-boilerplate",
+		  "demoUrl": "https://firebase-api-boilerplate.demo.com",
+		  "technologiesUsed": ["Firebase", "React.js"]
+		},
+		"id_20": {
+		  "title": "Material V6 Dash",
+		  "description": "App boilerplate structure that uses the Material UI framework in version 6.",
+		  "sourceCodeUrl": "https://github.com/Glayson/material-v6-dash",
+		  "demoUrl": "https://material-v6-dash.demo.com",
+		  "technologiesUsed": ["React.js", "Material UI v6"]
+		},
+		"id_21": {
+		  "title": "Global State Manager",
+		  "description": "Implementation study of the Zustand and Jotai libraries to manage the global states of the web application.",
+		  "sourceCodeUrl": "https://github.com/Glayson/global-state-manager",
+		  "demoUrl": "https://global-state-manager.demo.com",
+		  "technologiesUsed": ["React.js", "Zustand", "Jotai"]
+		},
+		"id_22": {
+		  "title": "Cédula Promotora",
+		  "description": "Landing page for Cédula Promotora, a payroll loan company.",
+		  "sourceCodeUrl": "https://github.com/Glayson/cedula-promotora",
+		  "demoUrl": "https://cedula-promotora.demo.com",
+		  "technologiesUsed": ["React.js", "Next.js", "Styled Components"]
+		}
+	  }
+	},
+	"experiencePage": {
+	  "title": "Experience",
+	  "subtitle": "A summary of my professional journey and the roles I've undertaken.",
+	  "timeline": {
+		"labelPosition": "Position",
+		"labelTitle": "Title",
+		"labelCompany": "Company",
+		"labelCategory": "Category",
+		"labelInstitution": "Institution",
+		"labelProfessionalCourse": "Professional Course",
+		"labelBachelorDegree": "Bachelor Degree",
+		"labelExtensionCourse": "Extension Course"
+	  }
+	},
+	"testimonialPage": {
+	  "title": "What Clients Are Saying",
+	  "subtitle": "Discover what my clients are saying about their experiences with my services."
+	},
+	"faq": {
+	  "title": "Frequently Asked Questions",
+	  "subtitle": "Here are some of the most frequently asked questions about my software development services.",
+	  "questions": [
+		{
+		  "id": 1,
+		  "question": "How long does it take to develop custom software?",
+		  "answer": "The development time varies depending on the complexity and scope of the project. Simple projects may take 4 to 6 weeks, while more complex solutions can take several months. During our initial consultation, I can provide a more accurate estimate based on your needs."
+		},
+		{
+		  "id": 2,
+		  "question": "What is the process for developing custom software?",
+		  "answer": "The process generally follows these steps: initial consultation, requirement definition, interface design, development, testing, and launch. After the launch, I provide support and maintenance to ensure everything runs smoothly."
+		},
+		{
+		  "id": 3,
+		  "question": "Do you provide maintenance and support after the project delivery?",
+		  "answer": "Yes, I offer support and maintenance to ensure the software continues to function correctly. We can discuss ongoing maintenance packages or on-demand support."
+		},
+		{
+		  "id": 4,
+		  "question": "Can I track the progress of my project?",
+		  "answer": "Yes, I maintain regular communication with clients throughout the project. I use project management tools for frequent updates and hold meetings to discuss progress and any necessary adjustments."
+		},
+		{
+		  "id": 5,
+		  "question": "What are the costs involved in developing custom software?",
+		  "answer": "The cost depends on the complexity of the project, the desired features, and the time needed for development. After discussing your requirements, I will provide a detailed cost estimate."
+		},
+		{
+		  "id": 6,
+		  "question": "Do you work with user interface (UI) design and user experience (UX)?",
+		  "answer": "Yes, I believe a good interface and an intuitive user experience are crucial for software success. I focus on UI/UX design with an emphasis on usability and user satisfaction."
+		},
+		{
+		  "id": 7,
+		  "question": "Do you offer consulting services before starting development?",
+		  "answer": "Yes, I offer consulting to better understand your needs and help define the project requirements. This phase is essential to ensure all important details are covered."
+		},
+		{
+		  "id": 8,
+		  "question": "Can you integrate the software with other platforms or systems?",
+		  "answer": "Yes, I develop solutions that can integrate with other platforms or systems, such as databases, third-party services, APIs, and more. Integrations are planned according to the specific needs of the project."
+		},
+		{
+		  "id": 9,
+		  "question": "Will the software be responsive and optimized for mobile devices?",
+		  "answer": "Yes, all the software I develop is optimized to work well on various devices, including desktops, tablets, and smartphones, ensuring a consistent experience for all users."
+		},
+		{
+		  "id": 10,
+		  "question": "What types of projects have you developed?",
+		  "answer": "I have experience with a wide range of projects, such as e-commerce applications, content management systems, service booking platforms, data analysis dashboards, among others. You can check out examples of previous work in my portfolio."
+		},
+		{
+		  "id": 11,
+		  "question": "Can I request changes to the project during development?",
+		  "answer": "Yes, but depending on the project's phase, changes may affect the timeline and budget. However, I am always flexible and work with clients to accommodate their needs as best as possible."
+		},
+		{
+		  "id": 12,
+		  "question": "Do you handle the launch and hosting of the software?",
+		  "answer": "Yes, I can assist with the software launch and advise you on the best hosting options based on the scale and expected traffic of your project."
+		},
+		{
+		  "id": 13,
+		  "question": "Do you offer performance optimization services?",
+		  "answer": "Yes, performance is a critical factor for any software. I optimize the code and structures to ensure the software is fast and efficient, even under load."
+		},
+		{
+		  "id": 14,
+		  "question": "Do you work with agile methodologies in development?",
+		  "answer": "Yes, I use agile methodologies such as Scrum or Kanban to ensure collaborative and efficient development. This allows for regular reviews and quick adjustments as needed."
+		}
+	  ]
+	},
+	"footer": {
+	  "labelNavigation": {
+		"title": "NAVIGATION",
+		"labelHome": "Home",
+		"labelServices": "Services",
+		"labelAboutMe": "About Me",
+		"labelPortfolio": "Projects",
+		"labelExperience": "Experience"
+	  },
+	  "labelHost": {
+		"title": "WEBSITE HOSTING"
+	  },
+	  "labelSourceCode": {
+		"title": "SOURCE CODE"
+	  },
+	  "labelTechs": {
+		"title": "TECHNOLOGIES"
+	  },
+	  "labelStats": {
+		"title": "STATISTICS",
+		"stats": "Dashboard"
+	  },
+	  "labelBuildVersion": "Build 1.0.0"
+	}
+  }
+  
